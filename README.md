@@ -1,2 +1,6 @@
-# gitskills
-git学习
+#
+
+gitskills
+git study
+
+creating a new branch is quick�
